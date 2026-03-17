@@ -1,0 +1,30 @@
+# Agent Framework
+crewai[tools]>=1.10.0
+
+# LLM
+openai>=1.0.0
+
+# Search
+tavily-python>=0.5.0
+
+# Financial Data
+yfinance>=0.2.40
+
+# Sentiment Analysis (FinBERT)
+transformers>=4.40.0
+torch>=2.0.0
+
+# API
+fastapi>=0.110.0
+uvicorn>=0.29.0
+
+# Frontend
+streamlit>=1.35.0
+plotly>=5.22.0
+
+# Data
+pandas>=2.2.0
+pydantic>=2.7.0
+
+# Utilities
+python-dotenv>=1.0.0
