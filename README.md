@@ -7,6 +7,8 @@ Stock research app for public equities with:
 
 This is a research-support tool, not investment advice.
 
+[Live Demo](https://deep-research-investment-agent-6bk9bh5mm2uedzw8juy75k.streamlit.app/)
+
 ## Features
 
 - Live market data with analyst targets and 30-day price history
